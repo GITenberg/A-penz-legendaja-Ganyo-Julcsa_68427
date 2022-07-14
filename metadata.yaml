@@ -1,0 +1,42 @@
+_repo: A-penz-legendaja-Ganyo-Julcsa_68427
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+  illustrator:
+    agent_name: Tull, Ödön
+    gutenberg_agent_id: '54775'
+    url: http://www.gutenberg.org/2009/agents/54775
+creator:
+  author:
+    agent_name: Justh, Zsigmond
+    gutenberg_agent_id: '54774'
+    url: http://www.gutenberg.org/2009/agents/54774
+description: ''
+gutenberg_issued: '2022-06-30'
+identifiers:
+  gutenberg: '68427'
+language: hu
+pgterms:marc905: 20220616001732justh
+pgterms:marc906: '1905'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin-Társulat,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A pénz legendája; Gányó Julcsa
+url: http://www.gutenberg.org/ebooks/68427
